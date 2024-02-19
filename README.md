@@ -56,7 +56,7 @@ Other specifications/hyperparameters in `config.py` should be self-explanatory o
 |bunsenfeng/knowledge-card-gutenberg|[link](https://huggingface.co/bunsenfeng/knowledge-card-gutenberg)|Gutenberg|
 |bunsenfeng/knowledge-card-DDB|[link](https://huggingface.co/bunsenfeng/knowledge-card-DDB)|biomedical knowledge graph|
 |bunsenfeng/knowledge-card-ConceptNet|[link](https://huggingface.co/bunsenfeng/knowledge-card-ConceptNet)|commonsense knowledge graph|
-|bunsenfeng/knowledge-card-bookcorpus[link](https://huggingface.co/bunsenfeng/knowledge-card-bookcorpus)|BookCorpus|
+|bunsenfeng/knowledge-card-bookcorpus|[link](https://huggingface.co/bunsenfeng/knowledge-card-bookcorpus)|BookCorpus|
 |bunsenfeng/knowledge-card-atomic|[link](https://huggingface.co/bunsenfeng/knowledge-card-atomic)|commonsense knowledge graph|
 |bunsenfeng/knowledge-card-acl-papers|[link](https://huggingface.co/bunsenfeng/knowledge-card-acl-papers)|*ACL papers|
 |bunsenfeng/knowledge-card-1btokens|[link](https://huggingface.co/bunsenfeng/knowledge-card-1btokens)|1B tokens|
