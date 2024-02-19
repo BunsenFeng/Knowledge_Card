@@ -62,7 +62,7 @@ Other specifications/hyperparameters in `config.py` should be self-explanatory o
 |bunsenfeng/knowledge-card-1btokens|[link](https://huggingface.co/bunsenfeng/knowledge-card-1btokens)|1B tokens|
 |bunsenfeng/knowledge-card-politics|[link](https://huggingface.co/bunsenfeng/knowledge-card-politics)|political news|
 
-Note that these knowledge cards are based on the `OPT-1.3B` model. Any language generation model that supports inference on a single GPU should also work so feel free to use your own models/selections as knowledge cards. If you are interested in contributing/suggesting model checkpoints as knowledge cards, please feel free to open an issue or a pull request.
+Note that these knowledge cards are based on the `OPT-1.3B` model. Please note that they are *far from perfect*: after all they are just 1B models trained with our very limited compute resources. Any language generation model that supports inference on a single GPU should also work so feel free to use your own models/selections as knowledge cards. If you are interested in contributing/suggesting model checkpoints as knowledge cards, please feel free to open an issue or a pull request.
 
 ## Evaluation Data
 
