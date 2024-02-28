@@ -70,19 +70,12 @@ For MMLU, visit [link](https://arxiv.org/abs/2009.03300). The fake news detectio
 
 ## Citation
 
-If you find our work interesting/helpful, please consider citing Knowledge Card (we had a name change before, but will provide the ICLR proceedings version of bibtex once it becomes available):
+If you find our work interesting/helpful, please consider citing Knowledge Card:
 ```
-@article{feng2023cook,
-  title={CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge},
-  author={Feng, Shangbin and Shi, Weijia and Bai, Yuyang and Balachandran, Vidhisha and He, Tianxing and Tsvetkov, Yulia},
-  journal={arXiv preprint arXiv:2305.09955},
-  year={2023}
-}
-
-@inproceedings{Feng2023KnowledgeCF,
+@inproceedings{feng2023knowledge,
   title={Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models},
-  author={Shangbin Feng and Weijia Shi and Yuyang Bai and Vidhisha Balachandran and Tianxing He and Yulia Tsvetkov},
-  year={2023},
-  url={https://api.semanticscholar.org/CorpusID:258741298}
+  author={Feng, Shangbin and Shi, Weijia and Bai, Yuyang and Balachandran, Vidhisha and He, Tianxing and Tsvetkov, Yulia},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2023}
 }
 ```
