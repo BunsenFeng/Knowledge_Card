@@ -65,7 +65,7 @@ Other specifications/hyperparameters in `config.py` should be self-explanatory o
 Note that these knowledge cards are based on the `OPT-1.3B` model. Please note that they are *far from perfect*: after all they are just 1B models trained with our very limited compute resources. Any language generation model that supports inference on a single GPU should also work so feel free to use your own models/selections as knowledge cards. If you are interested in contributing/suggesting model checkpoints as knowledge cards, please feel free to open an issue or a pull request.
 
 ## Training Your Own Knowledge Card
-Any langauge model checkpoint trained with the causal language modeling objective should work as a knowledge card. We provide a most generalized implementation in `card_training.py`: provide a text file (`.txt`) of corpora and train your own specialized knowledge card!
+Any language model checkpoint trained with the causal language modeling objective should work as a knowledge card. We provide a most generalized implementation in `card_training.py`: provide a text file (`.txt`) of corpora and train your own specialized knowledge card!
 
 
  ```
