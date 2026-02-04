@@ -2,7 +2,7 @@
 
 Repository for [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://arxiv.org/abs/2305.09955) @ ICLR 2024, Oral.
 
-🌟 **A better implementation of Knowledge Card, as well as many other multi-LLM collaboration approaches, now available in [MoCo](https://github.com/BunsenFeng/model_collaboration)!**
+🌟 **A better implementation of Knowledge Card, as well as many other multi-LLM collaboration approaches, is now available in [MoCo](https://github.com/BunsenFeng/model_collaboration)!**
 
 ## Configuration
 
